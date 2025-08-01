@@ -7,8 +7,5 @@ Sample images from MNIST test dataset:<br/>
 ## Image classification CNN model on MNIST dataset
 The model consists of 2 convolutional layers which are followed by maxpooling layers.The output of these layers is then flattened and fed into the dense layers which give the final output.
 ## Keras implementation accuracy
-Train accuracy: 99.66%<br/>
-Test accuracy: 99.12%<br/>
+Accuracy: 99.36%<br/>
 
-## Tensorflow implementation accuracy
-Test accuracy: 98.55%<br/>#MNIST-CLASSIFICATION
